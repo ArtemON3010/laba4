@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de03a407-4b79-4e72-b2de-4b51eb0d26a6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lpnu/resource/ParticipateAuctionResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lpnu/resource/ParticipateAuctionResource.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
